@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Olli-Dev
-- 👀 I’m interested in game development. 
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game development and programming
+- 🌱 I’m currently working in Unity, C# and Python
 
 <!---
 Olli-Dev/Olli-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
